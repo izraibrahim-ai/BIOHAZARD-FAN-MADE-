@@ -1,4 +1,3 @@
-![Uploading 1000863879.jpg…]()
 # BIOHAZARD-FAN-MADE-
 This is a resident evil game made for termux (not official capcom) a game similar to Resident Evil but a fan made version 
 # Tutorial on how to install it in termux 
@@ -29,3 +28,6 @@ unzip BIOHAZARD_ZERO.zip
 cd BIOHAZARD_ZERO
 python3 main.py
 # ini game berbahasa indonesia ;)
+![1000863882](https://github.com/user-attachments/assets/d90b9afa-f216-47bc-bd25-49522b382223)
+![1000863880](https://github.com/user-attachments/assets/5375d201-63d9-4432-8a4d-1556fd3d8641)
+![1000863881](https://github.com/user-attachments/assets/45286812-a808-4cf9-833c-5c1e7c299b46)
