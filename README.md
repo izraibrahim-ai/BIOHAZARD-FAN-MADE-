@@ -27,3 +27,4 @@ unzip BIOHAZARD_ZERO.zip
 # play the game
 cd BIOHAZARD_ZERO
 python3 main.py
+# ini game berbahasa indonesia ;)
