@@ -9,6 +9,8 @@ pkg install python3 -y
 
 git clone https://github.com/izraibrahim-ai/BIOHAZARD-FAN-MADE-.git
 
+# IF YOU DIDN'T INSTALL WITH GIT DOWNLOAD THE ZIP FILE AT THE BOTTOM AND FOLLOW THE INSTRUCTIONS BELOW  
+
 # enter the directory
 cd /sdcard/Download or cd /storage/Download
 
