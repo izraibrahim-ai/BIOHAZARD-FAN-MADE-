@@ -7,7 +7,8 @@ pkg upgrade && pkg update -y
 pkg install git -y
 pkg install python3 -y
 
-git clone https://github.com/izraibrahim-ai/BIOHAZARD-FAN-MADE-.git
+git clone https://github.com/izraibrahim-ai/BIOHAZARD-FAN-MADE-.gi
+[follow the "unzip file" instructions] 
 
 # IF YOU DIDN'T INSTALL WITH GIT DOWNLOAD THE ZIP FILE AT THE BOTTOM AND FOLLOW THE INSTRUCTIONS BELOW  
 
