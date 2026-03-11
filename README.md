@@ -26,7 +26,12 @@ pkg install unzip -y
 unzip BIOHAZARD_ZERO.zip 
 # play the game
 cd BIOHAZARD_ZERO
+
 python3 main.py
+
+# IF YOU FOUND BUG OR ERROR send the problem to this email 
+email= izraganteng123@protonmail.com
+
 # ini game berbahasa indonesia ;)
 ![1000863882](https://github.com/user-attachments/assets/d90b9afa-f216-47bc-bd25-49522b382223)
 ![1000863880](https://github.com/user-attachments/assets/5375d201-63d9-4432-8a4d-1556fd3d8641)
